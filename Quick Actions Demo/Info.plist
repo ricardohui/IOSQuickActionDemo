@@ -2,6 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key></key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutIconType</key>
+			<string>UIApplicationShortcutIconTypePlay</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Play</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.zappycode.Quick-Actions-Demo.play</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.zappycode.Quick-Actions-Demo.addnewuser</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Add new user</string>
+			<key>UIApplicationShortcutIconType</key>
+			<string>UIApplicationShortcutIconTypeAdd</string>
+		</dict>
+	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
